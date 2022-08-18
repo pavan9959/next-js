@@ -60,9 +60,3 @@ const myData = ({ data }) => {
 
 export default myData;
 
-// What will happend if the file is already exist in our folder and we tried to call the pages dynamic route ?
-
-// Which page will be serve by the next.js app?
-
-// getStaticPaths defines which pages next.js has to render when exporting.
-// It is used to generate all available dynamic routes.
