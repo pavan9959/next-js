@@ -1,5 +1,12 @@
 import Navbar from "../../components/Navbar";
 
+// getstaticPath() is used to generate static html files
+// and get StaticProps is used to provde data to that static generated file 
+// and then the populated html files will be stored in out folder when we create a build so to increase the speed like 
+// when the user hits the url there will be no need to generate js file to html again instead of that the stored file will
+// be directely served is known as static site generation
+
+
 
 
 // first we have to get all the ids fromm the api like 
